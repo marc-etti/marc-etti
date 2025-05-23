@@ -1,6 +1,6 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=marc-etti&section=header&reversal=false&animation=fadeIn&fontSize=60"/>
-</p>
+<a href="https://marc-etti.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=marc-etti.github.io&section=header&reversal=false&animation=fadeIn&fontSize=60"/>
+</a>
 
 <!--
 **marc-etti/marc-etti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
